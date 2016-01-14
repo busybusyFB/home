@@ -1,0 +1,42 @@
+.nav{
+	background-color: Rgb(100,100,100);
+}
+.nav a{
+	color: white;
+	font-size: 22px;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron{
+	background-color: Rgb(150,150,150);
+}
+
+.jumbotron h1{
+	color: whitesmoke;
+}
+
+.jumbotron h3{
+	text-transform: uppercase;
+	color: whitesmoke;
+}
+
+.Introduction{
+	padding-top: 16px;
+	background-color: Rgb(210,210,210);
+}
+
+.Introduction .Myphoto{
+	padding: 30px;
+	background-color: Rgb(150,150,150);
+}
+
+.Introduction p{
+	font-size: 18px;
+
+}
